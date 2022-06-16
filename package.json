@@ -7,12 +7,15 @@
     "preview": "vite preview --port 4173"
   },
   "dependencies": {
+    "@headlessui/vue": "^1.6.4",
+    "@heroicons/vue": "^1.0.6",
     "pinia": "^2.0.14",
     "sass": "^1.52.3",
     "vue": "^3.2.36",
     "vue-router": "^4.0.15"
   },
   "devDependencies": {
+    "@tailwindcss/forms": "^0.5.2",
     "@vitejs/plugin-vue": "^2.3.3",
     "autoprefixer": "^10.4.7",
     "postcss": "^8.4.14",
