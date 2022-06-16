@@ -65,15 +65,15 @@
         <div class="main__leftSide__content__bottom">
           <div class="main__leftSide__content__bottom__top">
             <a href="#" class="main__leftSide__content__bottom__top__item">
-              <img src="../assets/google-logo-perfekt.webp" alt="" />
+              <!-- <img src="../assets/google-logo-perfekt.webp" alt="" /> -->
               <p>Continue with Google</p>
             </a>
             <a href="#" class="main__leftSide__content__bottom__top__item">
-              <img src="../assets/google-logo-perfekt.webp" alt="" />
+              <!-- <img src="../assets/google-logo-perfekt.webp" alt="" /> -->
               <p>Continue with Facebook</p>
             </a>
             <a href="#" class="main__leftSide__content__bottom__top__item">
-              <img src="../assets/google-logo-perfekt.webp" alt="" />
+              <!-- <img src="../assets/google-logo-perfekt.webp" alt="" /> -->
               <p>Continue with Apple</p>
             </a>
           </div>
