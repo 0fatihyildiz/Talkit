@@ -58,7 +58,7 @@
 
           <div class="main__leftSide__content__middle__top__bottom">
             <a href="#">
-              <img src="../assets/" alt="" />
+              <!-- <img src="../assets/" alt="" /> -->
             </a>
           </div>
         </div>
