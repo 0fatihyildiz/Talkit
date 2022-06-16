@@ -10,7 +10,6 @@
           <h2>Sign in to your account</h2>
           <p>
             Or
-            {{ ' ' }}
             <a href="#" class="font-medium text-indigo-600 hover:text-indigo-500"> start your 14-day free trial </a>
           </p>
         </div>
