@@ -9,6 +9,8 @@
   "dependencies": {
     "@headlessui/vue": "^1.6.4",
     "@heroicons/vue": "^1.0.6",
+    "animejs": "^3.2.1",
+    "firebase": "^9.8.3",
     "pinia": "^2.0.14",
     "sass": "^1.52.3",
     "vue": "^3.2.36",
